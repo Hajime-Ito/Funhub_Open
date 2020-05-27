@@ -1,2 +1,2 @@
-# Funhub-Open-
+# Funhub_Open
 Funhubの開発リポジトリです。未来大生の気軽な開発参加を進める目的で用意されています。
